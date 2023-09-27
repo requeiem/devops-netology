@@ -6,3 +6,4 @@ MY REPO
 *_override.tf *_override.tf.json .terraformrc terraform.rc
 (звездочка означает любой символ)
 
+NEW LINE DASD WR WTREQBQTWBERQ;KLTBM EWQRKP LYMWERTIK HYNTWRIHNM WRIOTL
